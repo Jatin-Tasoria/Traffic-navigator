@@ -45,14 +45,14 @@ Make sure you have:
 Install required dependencies:
   pip install psycopg2 matplotlib
 
-🧾 Author
+##🧾 Author
 
 👨‍💻 Jatin 📚 MCA Department 🏫 University of Computing-Chandigarh university 📅 Project Duration: September – October 2025
 
-📜 License
+##📜 License
 
 This project is created for educational purposes and is free to use and modify. If you use or reference this code, please credit the author.
 
-⭐ Show Some Support!
+##⭐ Show Some Support!
 
 If you found this project helpful, don’t forget to star ⭐ the repository on GitHub!
