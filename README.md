@@ -156,14 +156,10 @@ Enter Destination Intersection ID: 4
 
 You can include:
 
-| Screenshot                                     | Description                          |
-| ---------------------------------------------- | ------------------------------------ |
-| ![Terminal Output](assets/terminal_output.png) | Console path and time output         |
-| ![Bar Chart](assets/bar_chart.png)             | Travel time comparison per segment   |
-| ![Network Graph](assets/node_graph.png)        | All intersections and selected route |
-| ![Full Visualization](assets/full_view.png)    | Combined view of chart + graph       |
-
-*(Store screenshots in an `assets/` folder for GitHub preview.)*
+| Screenshot                                       | Description                          |
+| ------------------------------------------------ | ------------------------------------ |
+| ![Terminal Output](assets/terminal_output.png)   | Console path and time output         |
+| ![Full Visualization](assets/visualization.png)  | Combined view of chart + graph       |
 
 ---
 
@@ -191,7 +187,7 @@ You can include:
 
 👨‍💻 **Jatin Tasoria**
 📚 MCA Department
-🏫 University of Computing
+🏫 University of Computing - Chandigarh University
 📅 Project Duration: October 2025
 
 ---
