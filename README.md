@@ -205,11 +205,4 @@ If you found this project helpful, don’t forget to **star ⭐ this repository*
 
 ---
 
-```
-
----
-
-Would you like me to generate this as a **ready-to-download `README.md` file** (so you can upload it directly to your GitHub repo)?  
-I can create and give you the file link immediately.
-```
 
